@@ -1,1 +1,1 @@
-# OpenTetra
+# OpenVega API
